@@ -16,6 +16,6 @@ I plan to do programming exercise by leetcode everyday.
 - 066-plus_one
 
 **Day005 5,6,8**
-005	Longest Palindromic Substring
-006	ZigZag Conversion	
-008	String to Integer (atoi)
+- 005	Longest Palindromic Substring
+- 006	ZigZag Conversion	
+- 008	String to Integer (atoi)
